@@ -24,7 +24,7 @@ Just the Docs is a theme for generating static websites with [Jekyll]. You can w
 
 Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
 
-Browse the docs to learn more about how to use this theme.
+Browse the docs to learn more about how to use this theme. Yada yada testing
 
 ## Getting started
 
