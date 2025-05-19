@@ -17,7 +17,7 @@ title: pgp-test
 description: testing github pages
 baseurl: "/pgp-test" # the subpath of your site, e.g. /blog
 url: "https://chengjunyuan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: chengjunyuan/pgp-test # for github-metadata
 
 permalink: pretty
 
